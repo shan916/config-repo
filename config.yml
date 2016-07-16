@@ -1,1 +1,2 @@
-projectName: Spring Config
+configuration:
+  projectName: Spring Config
